@@ -16,7 +16,7 @@ import { Component } from '@angular/core';
 
       <div class="highlights-container">
         <div class="highlight">
-          <img src="/assets/Classes.png" alt="image of RPG classes" />
+          <img src="assets/Classes.png" alt="image of RPG classes" />
           <p>
             So you've decided to put together an RPG adventure.  Arguably the next step is
             deciding what type of crew you're going to need.  That's where our character creator
@@ -29,7 +29,7 @@ import { Component } from '@angular/core';
         </div>
 
         <div class="highlight">
-          <img src="/assets/Guilds.png" alt="image of RPG guild" />
+          <img src="assets/Guilds.png" alt="image of RPG guild" />
           <p>
             Are you ready to share the skills you’ve been honing with others?  Why not check out our
             guild creator?  Guilds allow people with similar interests to share what they know with each
@@ -40,7 +40,7 @@ import { Component } from '@angular/core';
         </div>
 
         <div class="highlight">
-          <img src="/assets/Factions.png" alt="image of dwarf faction" />
+          <img src="assets/Factions.png" alt="image of dwarf faction" />
           <p>
             Have you been thinking of taking your adventures to the next level?  Then it’s time to check
             out our character factions.  Factions are focused on the big picture.  Maybe you’ve grown

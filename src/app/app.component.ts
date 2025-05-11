@@ -10,7 +10,7 @@ import { AuthService } from './auth.service';
   template: `
     <div class="wrapper">
       <header class="banner">
-        <img src="../assets/rpg_character_builder.png" alt="website banner for RPG Character Builder" class="banner-img">
+        <img src="assets/rpg_character_builder.png" alt="website banner for RPG Character Builder" class="banner-img">
       </header>
 
       <div class="sign-in-container">
